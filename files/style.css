@@ -331,7 +331,7 @@ h1, h2, h3, h4 { font-family: 'Playfair Display', serif; line-height: 1.2; }
 .contact-card p { color: var(--text-muted); font-size: 0.9rem; line-height: 1.7; }
 
 /* ===== FOOTER ===== */
-.footer { background: var(--dark); color:  (#0a6b5e 0%, #13998a 100%); padding: 64px 0 0; }
+.footer { background: var(--dark); color:  ( #13998a 100%); padding: 64px 0 0; }
 .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1.2fr; gap: 48px; padding-bottom: 48px; }
 .footer-brand p { font-size: 0.9rem; margin-top: 16px; line-height: 1.7; color: rgba(255,255,255,0.6); }
 .footer-brand .logo-text { color: white; }
